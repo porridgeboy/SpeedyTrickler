@@ -12,3 +12,6 @@ https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_ter
 import settings file "serial_bluetooth_terminalsettings_cfg"
 
 
+<a href="https://github.com/eamars" target="_blank">eamars</a>
+
+This uses pcb from https://github.com/eamars/RaspberryPi-Pico-Motor-Expansion-Board?tab=readme-ov-file
